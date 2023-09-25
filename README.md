@@ -8,4 +8,5 @@ Link do deploy: https://landing-page-pet1.netlify.app/
 
 
 
-![pet](https://github.com/Angellica06/Landing-Page/assets/104512282/d6a124f8-b423-40c9-8fed-f628f129eacf)
+
+![Landing-page](https://github.com/Angellica06/Landing-Page/assets/104512282/0ff6994e-1ede-4997-9564-ecb014f3ea02)
